@@ -42,9 +42,9 @@ Save the trained SVM model to a .sav file using pickle.
 Load the saved model to make future predictions without retraining.
 
 ## 📂 Files
-diabetes_model.sav: The saved trained model file.
-diabetes.ipynb: Script for training and saving the model.
-diabetes.csv: The dataset.
+- diabetes_model.sav: The saved trained model file.
+- diabetes.ipynb: Script for training and saving the model.
+- diabetes.csv: The dataset.
 
 ## 🔗 Further Reading
 [Pima Indians Diabetes Database
